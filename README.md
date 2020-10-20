@@ -9,4 +9,5 @@ This CSharp tool allows you to count the amount of calories of food consumed dai
 
 ![Conta Claorie](https://user-images.githubusercontent.com/54840154/96631086-2a9be480-1316-11eb-9e1b-3a81728d2b92.PNG)
 
-![Conta Claorie](https://user-images.githubusercontent.com/54840154/96633772-e14d9400-1319-11eb-9312-efd6f0416aa6.PNG)
+![Conta Claorie](https://user-images.githubusercontent.com/54840154/96633985-27a2f300-131a-11eb-8e47-2809c9515582.PNG)
+
